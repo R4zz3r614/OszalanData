@@ -1,0 +1,53 @@
+{
+  "name": "oszalan",
+  "title": "Oszalan",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Oszalan Macros",
+      "type": "Macro",
+      "name": "oszalan-macros",
+      "path": "packs/oszalan-macros.db",
+      "system": "worldbuilding",
+      "package": "world",
+      "entity": "Macro",
+      "private": false
+    },
+    {
+      "label": "Standardisierte Elixiere",
+      "type": "Item",
+      "name": "standardisierte-elixiere",
+      "path": "packs/standardisierte-elixiere.db",
+      "system": "worldbuilding",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "label": "(Baileywiki Maps Premium)Baileywiki Maps Premium",
+      "name": "baileywiki-maps-premium.actors",
+      "type": "Actor",
+      "path": "packs/baileywiki-maps-premium.actors.db",
+      "system": "worldbuilding",
+      "package": "world",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\freun\\AppData\\Local\\FoundryVTT\\Data\\worlds\\oszalan\\packs\\baileywiki-maps-premium.actors.db"
+    }
+  ],
+  "system": "worldbuilding",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.238",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.6.2"
+}
