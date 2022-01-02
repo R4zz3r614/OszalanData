@@ -1,0 +1,16 @@
+{"_id":"1T9rAoWQ5YMXYFsc","name":"Templates","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#011c46","flags":{}}
+{"name":"Trigger Happy","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ff6600","flags":{},"_id":"6KiBcl9Llxe0bGCm"}
+{"name":"Elixiere","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#13c9b3","flags":{},"_id":"C9H7DU6fbeA5WG1U"}
+{"_id":"DfFFCyDn5DXlYWGW","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"JPtwBijwvGfiropv","name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#50C878","flags":{}}
+{"name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#690070","flags":{},"_id":"WC0GaEcnOsJq8227"}
+{"_id":"XG1xRtVLrdqO7aHe","name":"Rüstungen","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#7b9095","flags":{}}
+{"name":"Nahkampf","type":"Item","parent":"iY81QAMQGvMSiOH9","sorting":"a","sort":0,"color":null,"flags":{},"_id":"e3OSN2Eh4eMswGJ9"}
+{"_id":"iY81QAMQGvMSiOH9","name":"Waffen","type":"Item","parent":null,"sorting":"a","sort":200000,"color":"#b21f1f","flags":{}}
+{"name":"Fernkampf","type":"Item","parent":"iY81QAMQGvMSiOH9","sorting":"a","sort":0,"color":null,"flags":{},"_id":"oibPHD4eBGK08QjG"}
+{"_id":"q6o2nR4vgzMCKckZ","name":"Währung","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#BBA14F","flags":{}}
+{"name":"Charaktersheets","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"sNcCSwTgIxnF92ay"}
+{"_id":"tRSQUQa6lZnFNiUL","name":"Monster","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#9b111e","flags":{}}
+{"_id":"toKoLxEXHXps1DKB","name":"Sonstige Items","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#50C878","flags":{}}
+{"_id":"x0EvQIT4eVHTTJ3u","name":"Die großen Städte","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#0364a0","flags":{}}
+{"_id":"xZ453Qpv1AdLPcve","name":"Triggers","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff8800","flags":{}}
