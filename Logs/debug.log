@@ -1,0 +1,43 @@
+{"level":"info","message":"Running on Node.js - Version 16.5.0","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 9","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Loading data from user directory - C:/Users/freun/AppData/Local/FoundryVTT/Data","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Application Options:\n{\n  \"port\": 30000,\n  \"upnp\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"localHostname\": null,\n  \"routePrefix\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"awsConfig\": null,\n  \"dataPath\": \"C:/Users/freun/AppData/Local/FoundryVTT/Data\",\n  \"passwordSalt\": null,\n  \"proxySSL\": false,\n  \"proxyPort\": null,\n  \"serviceConfig\": null,\n  \"updateChannel\": \"stable\",\n  \"language\": \"en.core\",\n  \"upnpLeaseDuration\": null,\n  \"compressStatic\": \"true\",\n  \"world\": null,\n  \"isElectron\": true,\n  \"isNode\": false,\n  \"isSSL\": false,\n  \"noupdate\": false,\n  \"noIPDiscovery\": false,\n  \"demo\": null\n}","timestamp":"2021-12-27 19:13:15"}
+{"level":"warn","message":"Software license requires signature.","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Running Electron application with version 15.3.4 using Chromium 94.0.4606.81","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2021-12-27 19:13:15"}
+{"level":"info","message":"Created client session 7066a0b7ba9ffa3985d48264","timestamp":"2021-12-27 19:13:16"}
+{"level":"info","message":"License signature successfully created. Thank you and please enjoy Foundry Virtual Tabletop.","timestamp":"2021-12-27 19:13:23"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2021-12-27 19:13:23"}
+{"level":"info","message":"Downloading Package - 100%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 3%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 7%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 10%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 14%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 17%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 21%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 24%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 28%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 31%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 34%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 41%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 45%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 48%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 52%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 55%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 59%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 62%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 66%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 69%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 72%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 76%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 79%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 83%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 86%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 90%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 93%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 97%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2021-12-27 19:13:57"}
+{"level":"info","message":"Vending Package - 100%","timestamp":"2021-12-27 19:13:57"}
+{"level":"warn","message":"Application configuration settings updated, server restart required!","timestamp":"2021-12-27 19:33:14"}
